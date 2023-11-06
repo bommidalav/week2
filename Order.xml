@@ -1,0 +1,20 @@
+﻿<Data>
+  <order>
+    <OrderNo>o1</OrderNo>
+    <Product_Name>cellphone</Product_Name>
+    <Qty>1</Qty>
+    <Price>1.000000000000000e+004</Price>
+  </order>
+  <order>
+    <OrderNo>o2</OrderNo>
+    <Product_Name>smartwatch</Product_Name>
+    <Qty>1</Qty>
+    <Price>2.000000000000000e+004</Price>
+  </order>
+  <order>
+    <OrderNo>o3</OrderNo>
+    <Product_Name>tv</Product_Name>
+    <Qty>1</Qty>
+    <Price>3.000000000000000e+004</Price>
+  </order>
+</Data>

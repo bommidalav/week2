@@ -1,0 +1,17 @@
+﻿<Data>
+  <Supplier>
+    <Supplier_Name>thomas</Supplier_Name>
+    <Contact_No>45345</Contact_No>
+    <OrderNo>o1</OrderNo>
+  </Supplier>
+  <Supplier>
+    <Supplier_Name>jackson</Supplier_Name>
+    <Contact_No>67867</Contact_No>
+    <OrderNo>o2</OrderNo>
+  </Supplier>
+  <Supplier>
+    <Supplier_Name>joe</Supplier_Name>
+    <Contact_No>67876</Contact_No>
+    <OrderNo>o3</OrderNo>
+  </Supplier>
+</Data>

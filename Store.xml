@@ -1,0 +1,17 @@
+﻿<Data>
+  <Store>
+    <StoreName>apple store</StoreName>
+    <Address>london</Address>
+    <Rating>5</Rating>
+  </Store>
+  <Store>
+    <StoreName>Samsung store</StoreName>
+    <Address>new york</Address>
+    <Rating>4</Rating>
+  </Store>
+  <Store>
+    <StoreName>LG store</StoreName>
+    <Address>london</Address>
+    <Rating>4</Rating>
+  </Store>
+</Data>

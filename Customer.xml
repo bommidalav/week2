@@ -1,0 +1,17 @@
+﻿<Data>
+  <Customer>
+    <Customer_Name>mitchel</Customer_Name>
+    <Address>london</Address>
+    <OrderNo>o1</OrderNo>
+  </Customer>
+  <Customer>
+    <Customer_Name>tom</Customer_Name>
+    <Address>london</Address>
+    <OrderNo>o2</OrderNo>
+  </Customer>
+  <Customer>
+    <Customer_Name>harry</Customer_Name>
+    <Address>london</Address>
+    <OrderNo>o3</OrderNo>
+  </Customer>
+</Data>

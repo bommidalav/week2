@@ -1,0 +1,4 @@
+Payment_id,Pay_by,method,Total_Amount
+p1,mitchen jone,offline,10000
+p2,tom,online,20000
+p3,harry,online,30000
